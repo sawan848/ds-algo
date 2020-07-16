@@ -1,1 +1,2 @@
-this is the data-structure and algorithms using the java 
+ data-structure and algorithms using the java
+problem-solving using data structure and algorithm in java --hemant jain
