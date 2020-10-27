@@ -1,0 +1,1 @@
+/* * @author:Saawan * @created:[10/19/2020],Monday * Time:7:16 PM */public class Test {    public static void main(String[] args) {        int a=10;        System.out.println(a*a++);    }}

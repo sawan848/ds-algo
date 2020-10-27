@@ -1,0 +1,1 @@
+/* * @author:Saawan * @created:[10/20/2020],Tuesday * Time:12:22 PM */public enum Gender {//    FEMALE(1,"f"),//    MALE(2,"f");,//    UNDEFINED(3,"U"){////        public String comment(){//            return "to be decided later:"+getRepr()+","+getDescr();//        }//    };}
